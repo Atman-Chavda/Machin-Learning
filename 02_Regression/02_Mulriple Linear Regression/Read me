@@ -1,0 +1,3 @@
+This is code for applying multiple linear regression
+The eq of this is
+y = b0 + b1X1 + b2X2 + ... + bnXn

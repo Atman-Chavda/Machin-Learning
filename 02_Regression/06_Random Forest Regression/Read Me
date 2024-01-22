@@ -1,0 +1,3 @@
+This is almost same as Decision Tree
+But here you take sub sate of the data and make tree of that
+You do this process multiple times and tkae the avrage of the all output to predict the new one

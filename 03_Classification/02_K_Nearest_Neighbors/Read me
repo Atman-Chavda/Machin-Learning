@@ -1,0 +1,2 @@
+This modal uses the distanse between neighbors to predict the class
+which ever class has more data points closer to test subject that class will be the class of the subject
